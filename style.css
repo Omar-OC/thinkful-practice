@@ -1,0 +1,29 @@
+/* Styles the header */
+
+header, footer {
+    background: #416165;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+    height: auto;
+    margin: auto;
+  }
+  header, h2, h3, body {
+    text-align: center;
+  }
+  /* styles the body of the webpage */
+  body {
+    background: #D9DBF1;
+    color: black;
+    font-size: 16px;
+  }
+  
+  /* This styles the two links on the webpage, LinkedIn and GitHub */
+  a:link{ color: blue }
+  a:visited{ color: blue  }
+  a:hover { color: #416165}
+  a:active{ color: #0B3948}
+  
+  .list{
+    list-style-position: inside;
+  }
